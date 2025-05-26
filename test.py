@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 print("Hello Jupiter")
-=======
-print("Hello moon")
->>>>>>> hallomaan
+print("Hello Mars")
